@@ -6,8 +6,15 @@
     <description>Recent content in VBA巨集 on CodingDog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2024 06:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 05:07:47 +0800</lastBuildDate>
     <atom:link href="https://CodingDog666.github.io/categories/vba%E5%B7%A8%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VBA 關鍵字進階指南：控制流程與錯誤處理 (第三篇) - CodingDog</title>
+      <link>https://CodingDog666.github.io/blog/vba-control_flow/</link>
+      <pubDate>Fri, 11 Oct 2024 05:07:47 +0800</pubDate>
+      <guid>https://CodingDog666.github.io/blog/vba-control_flow/</guid>
+      <description>VBA 關鍵字進階指南：控制流程與錯誤處理 (第三篇) 在前幾篇文章中，我們介紹了 VBA 的基礎關鍵字，如 If...Then...Else、For...Next 等。在這篇文章中，我們將深入探討兩個更進階的主題：控制流程 和 錯誤處理。這些概念將幫助你撰寫更加靈活且健壯的程式。</description>
+    </item>
     <item>
       <title>VBA 關鍵字簡介：資料型別與常量宣告 (第二篇) - CodingDog</title>
       <link>https://CodingDog666.github.io/blog/vba-keywords_types/</link>
